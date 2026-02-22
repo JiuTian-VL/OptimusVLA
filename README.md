@@ -9,8 +9,10 @@
 <a target="_blank" href="https://scholar.google.com/citations?user=rxaiRMUAAAAJ&hl=en">Bing&#160;Hu</a><sup>1</sup>,
 <a target="_blank" href="https://scholar.google.com/citations?user=9Vc--XsAAAAJ&hl=en&oi=ao">Rui&#160;Shao</a><sup>1 3&#9993</sup>,
 <a target="_blank" href="https://scholar.google.com/citations?user=Mpg0w3cAAAAJ&hl=en&oi=ao">Gongwei&#160;Chen</a><sup>1</sup>,
-<br>
 <a target="_blank" href="https://scholar.google.com/citations?hl=en&user=Awsue7sAAAAJ">Dongmei&#160;Jiang</a><sup>2&#9993</sup>,
+    <br>
+<a target="_blank" href="https://scholar.google.com/citations?hl=en&user=FCIpXqwAAAAJ">Pengwei&#160;Xie</a><sup>4</sup>,
+<a target="_blank" href="https://scholar.google.com/citations?hl=en&user=FCJVUYgAAAAJ">Jianye&#160;HAO</a><sup>4</sup>,
  <a target="_blank" href="https://scholar.google.com/citations?hl=en&user=yywVMhUAAAAJ">Liqiang&#160;Nie</a><sup>1</sup>
 </div>
 <sup>1</sup>Harbin Institute of Technology, Shenzhen&#160&#160&#160</span>
