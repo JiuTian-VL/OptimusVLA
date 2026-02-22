@@ -6,7 +6,7 @@
 </h2>
 <div>
 <a target="_blank" href="https://scholar.google.com/citations?user=TDBF2UoAAAAJ&hl=en&oi=ao">Zaijing&#160;Li</a><sup>1 2</sup>,
-<a target="_blank" href="https://scholar.google.com/citations?user=pzJiWzMAAAAJ&hl=en">Bing&#160;Hu</a><sup>1</sup>,
+<a target="_blank" href="https://scholar.google.com/citations?user=rxaiRMUAAAAJ&hl=en">Bing&#160;Hu</a><sup>1</sup>,
 <a target="_blank" href="https://scholar.google.com/citations?user=9Vc--XsAAAAJ&hl=en&oi=ao">Rui&#160;Shao</a><sup>1 3&#9993</sup>,
 <a target="_blank" href="https://scholar.google.com/citations?user=Mpg0w3cAAAAJ&hl=en&oi=ao">Gongwei&#160;Chen</a><sup>1</sup>,
 <br>
