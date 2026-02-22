@@ -14,7 +14,7 @@
  <a target="_blank" href="https://scholar.google.com/citations?hl=en&user=yywVMhUAAAAJ">Liqiang&#160;Nie</a><sup>1</sup>
 </div>
 <sup>1</sup>Harbin Institute of Technology, Shenzhen&#160&#160&#160</span>
-<sup>2</sup>PengCheng Laboratory, Shenzhen</span>
+<sup>2</sup>PengCheng Laboratory, Shenzhen&#160&#160&#160</span>
 <sup>3</sup>Shenzhen Loop Area Institute</span>
 <br />
 <sup>&#9993&#160;</sup>Corresponding author&#160;&#160;</span>
