@@ -42,7 +42,7 @@ Overview of OptimusVLA framework. Given a task and the current observation, the 
 <img src="./assets/fig1.png" >
 
 ## :smile_cat: Evaluation results on Real World
-we evaluate OptimusVLA on Generalization Tasks and Long-horizon Tasks via GALAXEA R1 Lite robot.
+We evaluate OptimusVLA on Generalization Tasks and Long-horizon Tasks via GALAXEA R1 Lite robot.
 <img src="./assets/fig2.png" >
 
 
