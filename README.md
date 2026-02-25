@@ -49,6 +49,15 @@ Overview of OptimusVLA framework. Given a task and the current observation, the 
 We evaluate OptimusVLA on Generalization Tasks and Long-horizon Tasks via GALAXEA R1 Lite robot.
 <img src="./assets/fig2.png" >
 
+## :hugs: Citation
 
+If you find this work useful for your research, please kindly cite our paper:
 
+```
+@article{li2026optimusvla,
+  title={Global Prior Meets Local Consistency: Dual-Memory Augmented Vision-Language-Action Model for Efficient Robotic Manipulation},
+  author={Zaijing Li, Bing Hu, Rui Shao, Gongwei Chen, Dongmei Jiang, Pengwei Xie, Jianye Hao, Liqiang Nie},
+  journal={arXiv preprint arXiv:2602.20200},
+  year={2026}
+}
 
