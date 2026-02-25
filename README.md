@@ -24,7 +24,7 @@
 <sup>&#9993&#160;</sup>Corresponding author&#160;&#160;</span>
 <br/>
 <div align="center">
-    <a href="https://arxiv.org/abs/2408.03615" target="_blank">
+    <a href="https://arxiv.org/abs/2602.20200" target="_blank">
     <img src="https://img.shields.io/badge/Paper-arXiv-deepgreen" alt="Paper arXiv"></a>
     <a href="https://cybertronagent.github.io/OptimusVLA.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Project-OptimusVLA-9cf" alt="Project Page"></a>
@@ -36,7 +36,7 @@
 ## :new: Updates
 - [02/2026] :fire: OptimusVLA is accepted to **CVPR 2026**!
 - [02/2026] :fire: [Project page](https://cybertronagent.github.io/OptimusVLA.github.io/) released.
-- [02/2026] :fire: [Arxiv paper](https://arxiv.org/abs/2408.03615) released.
+- [02/2026] :fire: [Arxiv paper](https://arxiv.org/abs/2602.20200) released.
 
 
 
